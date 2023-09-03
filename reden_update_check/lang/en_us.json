@@ -1,0 +1,8 @@
+{
+    "reden-update-check.hello": "Reden update check Loaded!",
+    "reden-update-check.mods": "Found possible Reden mod files:",
+    "reden-update-check.foundmod": "Found Reden mod file with id matching:",
+    "reden-update-check.timed_out": "Connection to Modrinth API timed out. End the update process.",
+    "reden-update-check.ok": "Reden is already the latest version!",
+    "reden-update-check.new": "A higher version of Reden has been found, attempting to automatically update..."
+}
