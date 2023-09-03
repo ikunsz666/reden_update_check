@@ -1,8 +1,0 @@
-{
-    "reden-update-check.hello": "Reden update check 已完成加载！",
-    "reden-update-check.mods": "可能的Reden模组文件： ",
-    "reden-update-check.foundmod": "已找到匹配Modid的Reden模组文件：",
-    "reden-update-check.timed_out": "连接到Modrinth API超时，结束更新检测。",
-    "reden-update-check.ok": "Reden已经更新到最新版本！",
-    "reden-update-check.new": "已发现更高版本的Reden，正在尝试下载..."
-}
