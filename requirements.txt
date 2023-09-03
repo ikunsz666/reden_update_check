@@ -1,3 +1,0 @@
-# Add your python package requirements here, just like regular requirements.txt
-pyYAML==6.0
-requests==2.28.2
